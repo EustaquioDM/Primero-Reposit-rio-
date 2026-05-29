@@ -1,4 +1,4 @@
-# Primero-Reposit-rio-
+# Minicurso Git-Github Eus
 Repositório criado no curso Git-GitHub 29/05/26
 
 ## Comando em Promt
@@ -23,13 +23,13 @@ git status
 
 git add . //Manda os arquivos para o Stage
 
-git commit -m "As Alteracoes que fiz" //termina o envio e descreve as alterações
+git commit -m "As Alteracoes que fiz" //Enviando o código e descrevendo as alterações
+
+git push origin "nome-da-branch" //Termina de enviar o código local para o GitHub (Remoto)
 
 Git Pull
 
 ##Branches
-
-git push origin "nome-da-branch" //Enviar o código local para o GitHub (Remoto)
 
 git branch //Verificar as Branches existêntes
 
